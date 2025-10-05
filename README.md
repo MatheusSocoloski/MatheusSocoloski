@@ -11,12 +11,17 @@
   <img src="https://skillicons.dev/icons?i=vue,nuxt,react,next,nodejs,ts,php,laravel,postgres,docker,git,figma,jest,cypress,aws&theme=dark" />
 </div>
 
+---
+
+## 📊 Estatísticas
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusSocoloski&show_icons=true&theme=tokyonight&hide_title=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSocoloski&layout=compact&theme=tokyonight"/>
 </div>
+
 ---
+
 ## 🌟 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
