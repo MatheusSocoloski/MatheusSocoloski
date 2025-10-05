@@ -18,7 +18,7 @@ Atuo com **front e back-end**, **Docker**, **testes automatizados** e arquitetur
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| 🌐 [GR Serviços Ferroviários](https://grservicosferroviais.com) | Sistema web responsivo e performático com deploy automatizado. | Vue.js, PHP, SPA |
+| 🌐 [GR Serviços Ferroviários](https://grservicosferroviarios.com/) | Sistema web responsivo e performático com deploy automatizado. | Vue.js, PHP, SPA |
 | 💡 [Portfólio Pessoal](https://matheussocoloski.github.io/portifolio-MatheusSocoloski.github.io/#projetos) | Exibe meus principais projetos e habilidades. | HTML, CSS, JS, GitHub Pages |
 
 ---
