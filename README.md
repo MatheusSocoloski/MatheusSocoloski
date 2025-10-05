@@ -2,7 +2,7 @@
 💻 **Desenvolvedor Web | Full Stack**
 
 Sou desenvolvedor com foco em aplicações **Vue.js, Nuxt, Node.js e Laravel**, apaixonado por criar sistemas **performáticos, escaláveis e bem estruturados**.  
-Atuo com **front e back-end**, **Docker**, **testes automatizados** e arquitetura **SPA**.
+Atuo como **Full-Stack**.
 
 ---
 
