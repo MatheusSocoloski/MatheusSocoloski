@@ -38,7 +38,7 @@ Atuo com **front e back-end**, **Docker**, **testes automatizados** e arquitetur
   <a href="mailto:matheusocoloski1@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/matheussocoloski/" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-socoloski-813157219/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://matheussocoloski.github.io/portifolio-MatheusSocoloski.github.io/#projetos" target="_blank">
