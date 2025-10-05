@@ -3,42 +3,22 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="60" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cypress" height="60" alt="cypress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,nodejs,ts,php,laravel,postgres,docker,git,figma,jest,cypress,aws&theme=dark" />
 </div>
 
-###
+## 🌟 Projetos em Destaque
 
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
+| 🌐 [GR Serviços Ferroviários](https://grservicosferroviais.com) | Sistema web responsivo com deploy automatizado. | Vue.js, PHP, SPA |
+| 💡 [Portfólio Pessoal](https://matheussocoloski.github.io/portifolio-MatheusSocoloski.github.io/#projetos) | Portfólio com meus principais projetos. | HTML, CSS, JS |
+
+---
 <div align="center">
-  <a href="https://www.linkedin.com/in/matheus-socoloski-813157219/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:matheusocoloski1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
-  </a>
-  <a href="https://grservicosferroviarios.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GR%20Serviços%20Ferroviários&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="site logo"  />
-  </a>
+  <a href="mailto:matheusocoloski1@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/matheussocoloski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://matheussocoloski.github.io/portifolio-MatheusSocoloski.github.io/#projetos" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-6f42c1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </div>
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MatheusSocoloski&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -54,3 +34,6 @@
 </picture>
 
 ###
+
+⭐ _“Transformando ideias em código e código em soluções.”_
+
