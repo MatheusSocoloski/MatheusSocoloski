@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/p0f2VHt.gif" width="100%" alt="banner-galaxia"/>
+</p>
+
 # 👋 Olá! Eu sou o Matheus Socoloski  
 💻 **Desenvolvedor Web | Full Stack**
 
