@@ -18,7 +18,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| 🌐 [GR Serviços Ferroviários](https://grservicosferroviais.com) | Sistema web responsivo com deploy automatizado. | Vue.js, PHP, SPA |
+| 🌐 [GR Serviços Ferroviários](https://grservicosferroviais.com) | Sistema web responsivo com deploy automatizado. | Vue.js, PHP |
 | 💡 [Portfólio Pessoal](https://matheussocoloski.github.io/portifolio-MatheusSocoloski.github.io/#projetos) | Portfólio com meus principais projetos. | HTML, CSS, JS |
 
 ---
