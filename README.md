@@ -22,6 +22,10 @@
 | 💡 [Portfólio Pessoal](https://matheussocoloski.github.io/portifolio-MatheusSocoloski.github.io/#projetos) | Portfólio com meus principais projetos. | HTML, CSS, JS |
 
 ---
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusSocoloski&show_icons=true&theme=tokyonight&hide_title=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSocoloski&layout=compact&theme=tokyonight"/>
+</div>
 
 ## 📫 Contato
 
