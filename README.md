@@ -9,7 +9,7 @@
 ## 🪐 Tecnologias Principais
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,nodejs,ts,php,laravel,postgres,docker,git,figma,jest,cypress,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,next,nodejs,ts,php,laravel,postgres,docker,git,figma,jest,cypress,aws&theme=dark" />
 </div>
 
 ---
