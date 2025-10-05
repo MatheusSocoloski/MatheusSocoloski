@@ -1,8 +1,3 @@
-<!-- Fundo de Galáxia -->
-<div align="center">
-  <img src="https://i.imgur.com/lrxLXdG.gif" width="100%" alt="galaxy background" />
-</div>
-
 <h1 align="center">✨ Hey 👋 What's up? I'm Matheus Socoloski ✨</h1>
 
 ###
