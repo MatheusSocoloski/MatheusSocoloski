@@ -26,7 +26,7 @@ Atuo com **front e back-end**, **Docker**, **testes automatizados** e arquitetur
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusSocoloski&show_icons=true&theme=tokyonight&hide_title=true"/>
+  <img src="https://streak-stats.demolab.com?user=MatheusSocoloski&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSocoloski&layout=compact&theme=tokyonight"/>
 </div>
 
